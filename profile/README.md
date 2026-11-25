@@ -1,4 +1,4 @@
-# Inka Labs
+<img src="https://raw.githubusercontent.com/inka-labs/.github/main/profile/banner.png" alt="Inka Labs: apps that live at home, on your own computer" width="100%">
 
 *Inka* is Ekegusii for **home**.
 
