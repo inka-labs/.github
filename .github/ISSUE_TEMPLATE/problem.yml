@@ -1,0 +1,23 @@
+name: Report a problem
+description: Something is not working as it should
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened. Remove anything private before attaching a screenshot.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Shown in the app's settings or on its start page.
+  - type: dropdown
+    id: os
+    attributes:
+      label: Your computer
+      options: [Mac, Windows, Linux, Not sure]
+    validations:
+      required: true

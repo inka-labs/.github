@@ -14,7 +14,7 @@ Website: **[inka-labs.github.io](https://inka-labs.github.io)**
 |---|---|---|
 | **Vina Tsama** | Orders, deliveries, payments and reports for a food business | [Download](https://github.com/inka-labs/vina-tsama-releases/releases/latest) |
 | **[Pesa Ledger](https://github.com/inka-labs/pesa-ledger)** | A private household ledger: budgets, spending, comparisons and goals | [Download](https://github.com/inka-labs/pesa-ledger/releases/latest) |
-| **[Rep Book](https://github.com/inka-labs/rep-book)** | A workout log with calendars, targets and progress charts | |
+| **[Rep Book](https://github.com/inka-labs/rep-book)** | A workout log with calendars, targets and progress charts | [Download](https://github.com/inka-labs/rep-book/releases/latest) |
 | **[Docling Studio](https://github.com/inka-labs/docling-studio)** | A point-and-click screen for Docling's document conversion tools | |
 | **[RJSF Form Preview](https://github.com/inka-labs/rjsf-form-preview)** | See the form an rjsf.json definition produces | [Open](https://inka-labs.github.io/rjsf-form-preview/) |
 
